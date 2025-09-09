@@ -1,2 +1,2 @@
 # New-Repo
-a app demo
+a app demo for gitHub
